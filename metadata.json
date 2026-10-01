@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Concursos — Simulados, Questões Comentadas e Desempenho",
+  "description": "Plataforma de simulados para concursos públicos com questões comentadas alternativa por alternativa, caderno de erros e diagnóstico analítico de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
